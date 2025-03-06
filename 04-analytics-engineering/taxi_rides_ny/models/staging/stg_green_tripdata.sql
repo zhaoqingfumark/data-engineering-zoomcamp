@@ -2,7 +2,7 @@
     config(
         materialized='view'
     )
-}}
+}} 
 
 with tripdata as 
 (
